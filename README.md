@@ -44,4 +44,4 @@ Isso gerará um QR Code para a URL fornecida e imprimirá uma representação AS
 
 ## Licença
 
-Este projeto está licenciado sob a MIT License.
+Este projeto está licenciado sob a [MIT License.](./LICENSE.MD)
