@@ -1,4 +1,4 @@
-# QR Code Generator
+# QRify
 
 Um simples gerador de QR Code em Python, que permite gerar QR Codes a partir de URLs e salvar a imagem ou imprimir uma representação ASCII no console.
 
